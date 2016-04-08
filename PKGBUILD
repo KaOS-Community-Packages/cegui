@@ -9,7 +9,7 @@ arch=('x86_64')
 url="http://cegui.org.uk"
 license=("MIT")
 depends=('pcre' 'glew' 'expat' 'freetype2' 'libxml2' 'freeglut' 'lua' 'ogre' 'gtk2')
-makedepends=('cmake' 'boost' 'glm' 'mesa' 'tolua++')
+makedepends=('cmake' 'boost' 'glm' 'mesa' 'toluapp')
 source=("https://bitbucket.org/cegui/cegui/get/v0-8-4.tar.bz2")
 md5sums=('4a5d46390215ff1cd2651a1d1ce161de')
 
